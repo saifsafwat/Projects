@@ -1,2 +1,2 @@
 # Projects
-Number Guessing Game
+Small Projects By Python
